@@ -1,0 +1,28 @@
+{
+  "name": "ttd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "watch jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltsphinx/ttd-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saltsphinx/ttd-practice/issues"
+  },
+  "homepage": "https://github.com/saltsphinx/ttd-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.21.5",
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.1"
+  }
+}
